@@ -8,7 +8,7 @@ go get -u ./...
 ```
 - atur file .env sesuai dengan konfigurasi.
 ```bash
-cp .env.sample .env
+cp .env.sample to .env
 ```
 - lalu buat database baru sesuai dengan nama database di postgreSQL.
 - jalankan aplikasi
